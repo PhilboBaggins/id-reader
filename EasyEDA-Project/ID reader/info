@@ -1,0 +1,166 @@
+{
+  "uuid": "dd0731c6e78dd948ffef8042dc2e58d1",
+  "path": "Offline/ID%20reader",
+  "name": "ID reader",
+  "content": "",
+  "created_at": "2023-01-09 16:48:44",
+  "updated_at": "2023-09-17 03:14:10",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "80617dcd64ddbe34732e5740d2b6025d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "395f795c2d41438a9a67f1d0c835b164": 1,
+        "ed9eb2faffb34286820a54a14e9e9e24": 11,
+        "0613ecefb18d471abd49fce89f778704": 3,
+        "fcaba4851eda4ca19d4326a668633a30": 1,
+        "42499509c3684871ae647493e02ca911": 1,
+        "6490c62e45384777af834526526d9c63": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "3183-10200P1T",
+          1,
+          "CONN-TH_36P-P1.00-V_3183-XXXXXPXT",
+          "J1",
+          {
+            "BOM_Manufacturer Part": "3183-10200P1T",
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C404113",
+            "BOM_Manufacturer": "UMAX",
+            "puuid": "f01b99ddd414445d83295f2f36d13cf4",
+            "uuid": "42499509c3684871ae647493e02ca911",
+            "BOM_JLCPCB Part Class": "Extended Part"
+          }
+        ],
+        [
+          "NDS331N",
+          3,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1,Q2,Q3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C192741",
+            "BOM_Manufacturer": "onsemi(安森美)",
+            "BOM_Manufacturer Part": "NDS331N",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "bade90667a6e4731855e9a223387b8a6",
+            "uuid": "0613ecefb18d471abd49fce89f778704"
+          }
+        ],
+        [
+          "10k",
+          8,
+          "R0805",
+          "R1,R2,R3,R4,R5,R6,R7,R8",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "10",
+          3,
+          "R0805",
+          "R9,R10,R11",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "R_3386P_EU",
+          1,
+          "RES-ADJ-TH_3386P",
+          "RP1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "ce6e0cc9b0684cd986edbf86d7075dfd",
+            "uuid": "fcaba4851eda4ca19d4326a668633a30"
+          }
+        ],
+        [
+          "RPI-PICO-W-SMD",
+          1,
+          "RPI_PICO",
+          "X1",
+          {
+            "BOM_Manufacturer Part": "SC0918",
+            "BOM_Supplier": "Digi-Key",
+            "BOM_Supplier Part": "2648-SC0918CT-ND",
+            "BOM_Manufacturer": "Raspberry Pi",
+            "puuid": "7764d91a2e2f449d9b6d6124f642b85c",
+            "uuid": "395f795c2d41438a9a67f1d0c835b164"
+          }
+        ],
+        [
+          "HD44780LCD_RGB",
+          1,
+          "LCD1602-RGB",
+          "X2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "dec4c4114a444453b3bd6d77c49840b3",
+            "uuid": "6490c62e45384777af834526526d9c63"
+          }
+        ]
+      ],
+      "updateTime": 1694884396,
+      "createTime": 1673243324,
+      "histories": [],
+      "created_at": "2023-01-09 16:48:44",
+      "updated_at": "2023-09-17 03:13:16"
+    },
+    {
+      "uuid": "1fd3e8113776e2a3f2b615946cfe759f",
+      "puuid": "dd0731c6e78dd948ffef8042dc2e58d1",
+      "title": "PCB_ID reader",
+      "filename": "PCB_ID reader.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f01b99ddd414445d83295f2f36d13cf4": 1,
+        "dec4c4114a444453b3bd6d77c49840b3": 1,
+        "bade90667a6e4731855e9a223387b8a6": 3,
+        "b60f399a7a7e41848b2be1eb49c79141": 11,
+        "7764d91a2e2f449d9b6d6124f642b85c": 1,
+        "ce6e0cc9b0684cd986edbf86d7075dfd": 1
+      },
+      "BOM": [],
+      "updateTime": 1694884450,
+      "createTime": 1673243381,
+      "histories": [],
+      "created_at": "2023-01-09 16:49:41",
+      "updated_at": "2023-09-17 03:14:10"
+    }
+  ],
+  "sort": [],
+  "title": "ID reader",
+  "foldername": "ID reader",
+  "schfilename": "ID reader.json",
+  "schfilemtime": 1694884396383
+}
