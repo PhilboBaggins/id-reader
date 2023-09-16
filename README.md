@@ -3,8 +3,8 @@ ID reader
 
 Reader for [ID cards](https://github.com/PhilboBaggins/id-card).
 
-![Top](./Exports-v1.0/Top.png)
-![Bottom](./Exports-v1.0/Bottom.png)
+![Top](./Exports-v1.0/Top.svg)
+![Bottom](./Exports-v1.0/Bottom.svg)
 
 TODO: Add photo
 
